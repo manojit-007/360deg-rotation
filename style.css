@@ -32,9 +32,11 @@ body{
     border-radius: 10px;
 }
 
-#main img{
+#main img {
     width: 100%;
     object-fit: cover;
+    outline: 1px solid black;
+    border-radius: 0.5rem;
 }
 
 #slider{
